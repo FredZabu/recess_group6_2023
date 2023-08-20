@@ -1,1 +1,1 @@
-# automatic-light-control-system-website
+# Automated light and security alarm control system
